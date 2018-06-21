@@ -1,4 +1,4 @@
-# reme
+# reme.py
 A simpler way to build websites
 
 ---
